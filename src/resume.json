@@ -1,0 +1,218 @@
+{
+  "basics": {
+    "name": "Adán Toscano",
+    "label": "Software Engineer",
+    "picture": "images/adantoscano.jpg",
+    "x_pictureFallback": "images/adantoscano.jpg",
+    "x_title": "Hey There! Glad you're here",
+    "summary": "Going on 5 years of experience in IT. Currently I’m working as a Node.js Backend developer",
+    "location": {
+      "country": "España",
+      "countryCode": "ES",
+      "region": "Sevilla"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "adantoscano",
+        "url": "https://www.linkedin.com/in/adantoscano",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "adantoscano",
+        "url": "https://github.com/adantoscano",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Bipi",
+      "position": "Senior Node.js Backend",
+      "website": "https://bipicar.com/",
+      "startDate": "2021-04-15",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Emergya",
+      "position": "Team Lead",
+      "website": "https://www.emergya.com/",
+      "startDate": "2019-01-13",
+      "endDate": "2020-10-14",
+      "summary": "Joined at Innovation projects of Health Andalusian Service, encharged to create a notification manager to backoffice services",
+      "highlights": []
+    },
+    {
+      "company": "Levelbots",
+      "position": "CTO and Developer",
+      "website": "https://levelbots.com/",
+      "startDate": "2017-02-14",
+      "endDate": "2019-08-30",
+      "summary": "Levelbots was a chatbots Startup, developing a platform to create virtual assistants for hotels and tourist apartments",
+      "highlights": []
+    },
+    {
+      "company": "Connected Car Solutions",
+      "position": "CTO and Developer",
+      "website": "",
+      "startDate": "2016-11-09",
+      "endDate": "2017-09-09",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "EPICSA",
+      "position": "IT Support Technician",
+      "website": "https://www.dipucadiz.es/epicsa/",
+      "startDate": "2016-11-01",
+      "endDate": "2017-02-13",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Real Observatorio de la Armada",
+      "position": "Project Manager",
+      "website": "https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaobservatorio/prefLang-es/",
+      "startDate": "2014-10-01",
+      "endDate": "2015-03-31",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universität Koblenz-Landau",
+      "area": "Computer Science",
+      "studyType": "Erasmus+",
+      "startDate": "2015-09-08",
+      "endDate": "2016-07-07",
+      "courses": []
+    },
+    {
+      "institution": "Universität Koblenz-Landau",
+      "area": "Computer Science",
+      "studyType": "Erasmus+",
+      "startDate": "2010-10-01",
+      "endDate": "2016-09-01",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Node.js",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "REST API",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Unit Testing",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Basic",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Design Patterns",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Docker",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Scripting",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Networking",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Cloud",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Swarm",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "AWS",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Old wheels",
+      "x_icon": "fa-car"
+    },
+    {
+      "name": "Little guitars",
+      "x_icon": "fa-music"
+    },
+    {
+      "name": "Video games",
+      "x_icon": "fa-gamepad"
+    },
+    {
+      "name": "Road trips",
+      "x_icon": "fa-road"
+    }
+  ]
+}
